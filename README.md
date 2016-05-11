@@ -3,5 +3,8 @@ A docker image for the nightly builds of Metasploit - https://github.com/rapid7/
 
 # Getting Started
 
-- Run `make`
-- Run `docker run -i -t base msfconsole`
+##Run 
+- Run `docker run -it merbla/metasploit`
+
+##Build the image
+- Run `build.sh`
